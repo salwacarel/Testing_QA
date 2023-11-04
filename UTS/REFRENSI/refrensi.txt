@@ -1,0 +1,9 @@
+Artikel tentang pengenalan testing di pyhton https://www.codepolitan.com/blog/apa-itu-unit-testing-yuk-kenalan/
+Artikel mengenal unit test di pyhton https://www.codepolitan.com/blog/mengenal-unit-testing-dengan-python-596da4e55cd01/
+https://www.codepolitan.com/blog/apa-itu-unit-testing-yuk-kenalan/
+Artikel mengenal unit whiteBox Testing https://itbox.id/blog/white-box-testing-adalah/
+Manfaat unit test https://glints.com/id/lowongan/unit-testing-adalah/
+Kelebihan dan kekurangan https://haloedukasi.com/white-box-testing
+https://flinsetyadi.com/contoh-white-box-testing-dalam-pembangunan-sistem/
+https://jurnal.untan.ac.id/index.php/jepin/article/view/51992/75676594141
+Toba, H., Gautama, T. K., Narabel, J., Widjaja, A., & Sujadi, S. F. (2022). Evaluasi Metodologi CI/CD untuk Pengembangan Perangkat Lunak dalam Perkuliahan. JEPIN (Jurnal Edukasi dan Penelitian Informatika), 8(2), 227-234.
